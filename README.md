@@ -10,7 +10,7 @@
 
 Arch Linux:
 ```bash
-yay -S hiddify-next
+yay -S hiddify-next-bin
 ```
 Debian/Fedora:
 ```bash
