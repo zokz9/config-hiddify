@@ -7,6 +7,7 @@
 Для установки на Linux:
 1. скопировать эту ссылку ```https://raw.githubusercontent.com/zokz9/config-v2ray/refs/heads/main/config-pc.txt```
 3. скачайте и установите приложение:
+
 Arch Linux:
 ```bash
 yay -S hiddify-next
