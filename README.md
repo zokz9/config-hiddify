@@ -8,9 +8,17 @@
 1. скопировать эту ссылку ```https://raw.githubusercontent.com/zokz9/config-v2ray/refs/heads/main/config-pc.txt```
 2. скачайте и установите приложение:
 Arch Linux:
-```yay -S hiddify-next```
+```bash
+yay -S hiddify-next
+```
 Debian/Fedora:
-```sudo apt install -y curl wget python3-pip```  (debian/ubuntu)
-```sudo dnf install -y curl wget python3-pip```  (fedora)
-```bash <(curl -sL https://raw.githubusercontent.com/hiddify/hiddify-config/main/common/download_install.sh)```
-3. нажмите добавить профиль и вставте в поле ссылку
+```bash
+sudo apt install -y curl wget python3-pip
+```  (debian/ubuntu)
+```bash
+sudo dnf install -y curl wget python3-pip
+```  (fedora)
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/hiddify/hiddify-config/main/common/download_install.sh)
+```
+4. нажмите добавить профиль и вставте в поле ссылку
