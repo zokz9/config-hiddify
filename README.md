@@ -13,13 +13,11 @@ yay -S hiddify-next
 ```
 Debian/Fedora:
 ```bash
-sudo apt install -y curl wget python3-pip
-```  (debian/ubuntu)
-
+sudo apt install -y curl wget python3-pip #debian/ubuntu
+```
 ```bash
-sudo dnf install -y curl wget python3-pip
-```  (fedora)
-
+sudo dnf install -y curl wget python3-pip #fedora
+```
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/hiddify/hiddify-config/main/common/download_install.sh)
 ```
