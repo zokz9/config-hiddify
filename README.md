@@ -22,4 +22,4 @@ sudo dnf install -y curl wget python3-pip #fedora
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/hiddify/hiddify-config/main/common/download_install.sh)
 ```
-4. нажмите добавить профиль и вставте в поле ссылку
+3. нажмите добавить профиль и вставте в поле ссылку
