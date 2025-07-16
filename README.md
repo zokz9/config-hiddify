@@ -10,7 +10,6 @@
 
 Windows:
 Из Microsoft Store
-bash
 https://apps.microsoft.com/detail/9pdfnl3qv2s5?hl=ru-RU&gl=RU
 
 Arch Linux:
