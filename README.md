@@ -1,12 +1,12 @@
 # Installation Guide
 Для установки на Android:
-1. скопировать эту ссылку ```bash https://raw.githubusercontent.com/zokz9/config-v2ray/refs/heads/main/config-mobile.txt```
+1. скопировать эту ссылку ```https://raw.githubusercontent.com/zokz9/config-v2ray/refs/heads/main/config-mobile.txt```
 3. скачать приложение из PlayMarket https://play.google.com/store/apps/details?id=com.v2raytun.android
 4. и добавить профиль, вставить в поле ссылку
 
 
 Для установки на Linux/Windows:
-1. скопировать эту ссылку ```bash https://raw.githubusercontent.com/zokz9/config-v2ray/refs/heads/main/config-pc.txt```
+1. скопировать эту ссылку ```https://raw.githubusercontent.com/zokz9/config-v2ray/refs/heads/main/config-pc.txt```
 3. скачайте и установите приложение:
 
 Windows:
