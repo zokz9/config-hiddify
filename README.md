@@ -4,10 +4,15 @@
 3. скачать приложение из PlayMarket https://play.google.com/store/apps/details?id=com.v2raytun.android
 4. и добавить профиль, вставить в поле ссылку
 
-Для установки на Linux:
+Для установки на Linux/Windows:
 1. скопировать эту ссылку ```https://raw.githubusercontent.com/zokz9/config-v2ray/refs/heads/main/config-pc.txt```
 3. скачайте и установите приложение:
 
+Windows:
+Из Microsoft Store
+```bash
+https://apps.microsoft.com/detail/9pdfnl3qv2s5?hl=ru-RU&gl=RU
+```
 Arch Linux:
 ```bash
 yay -S hiddify-next-bin
