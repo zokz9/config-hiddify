@@ -10,9 +10,9 @@
 
 Windows:
 Из Microsoft Store
-```bash
+bash
 https://apps.microsoft.com/detail/9pdfnl3qv2s5?hl=ru-RU&gl=RU
-```
+
 Arch Linux:
 ```bash
 yay -S hiddify-next-bin
