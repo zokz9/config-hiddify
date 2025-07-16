@@ -9,8 +9,8 @@
 1. скопировать эту ссылку ```https://raw.githubusercontent.com/zokz9/config-v2ray/refs/heads/main/config-pc.txt```
 3. скачайте и установите приложение:
 
-Windows:
-Из Microsoft Store
+Windows: 
+Из Microsoft Store 
 https://apps.microsoft.com/detail/9pdfnl3qv2s5?hl=ru-RU&gl=RU
 
 Arch Linux:
