@@ -1,4 +1,4 @@
-# config-v2ray
+# Installation Guide
 Для установки на Android:
 1. скопировать эту ссылку ```https://raw.githubusercontent.com/zokz9/config-v2ray/refs/heads/main/config-mobile.txt```
 3. скачать приложение из PlayMarket https://play.google.com/store/apps/details?id=com.v2raytun.android
