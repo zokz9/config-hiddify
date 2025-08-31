@@ -8,3 +8,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?type=grpc&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?type=grpc&security=none#VPN-8
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?type=grpc&security=none#VPN-9
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?type=grpc&security=tls&sni=pqh24v3.hiddendom.shop#VPN-10
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?type=grpc&security=none#VPN-11
