@@ -1,5 +1,5 @@
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.61.50.192:34045?type=tcp&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me#VPN-1
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@185.200.190.159:34045?type=tcp&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me#VPN-2
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&security=none#VPN-2
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?type=ws&path=%2F&security=none#VPN-3
 vless://96be492b-3388-4693-be03-9caefe6dfff5@91.98.38.6:8443?type=tcp&security=reality&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb&sni=refersion.com#VPN-4
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?type=grpc&security=none#VPN-5
@@ -9,3 +9,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?type=grpc&securi
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?type=grpc&security=none#VPN-9
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?type=grpc&security=tls&sni=pqh24v3.hiddendom.shop#VPN-10
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?type=grpc&security=none#VPN-11
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?type=grpc&security=none#VPN-12
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?type=grpc&security=none#VPN-13
