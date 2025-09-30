@@ -11,3 +11,4 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?type=grpc&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?type=grpc&security=none#VPN-11
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?type=grpc&security=none#VPN-12
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?type=grpc&security=none#VPN-13
+vless://ca2bbc0a-3139-4a1c-bc93-049ad63c1d95@ucj3xy12fic116ixrq0m.appcity-download.ir:64286?encryption=none&security=none&type=grpc#VPN-14
