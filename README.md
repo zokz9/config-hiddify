@@ -1,7 +1,7 @@
 # Installation Guide
 **Для установки на Android:**
 1. скопировать эту ссылку ```https://raw.githubusercontent.com/zokz9/config-hiddify/refs/heads/main/config.txt```
-3. скачать из папки app, .apk и установить
+3. скачать из releases, .apk и установить
 4. и добавить профиль, вставить из буфера обмена
 
 
@@ -11,11 +11,11 @@
 
 Windows:
 
-скачать из папки app, .exe и установить
+скачать из realeses, .exe и установить
 
 Linux:
 
-скачать из папки app, .AppImage и установить
+скачать из realeses, .AppImage и установить
 ```bash
 chmod +x Hiddify.AppImage
 ./Hiddify.AppImage
