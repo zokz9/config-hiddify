@@ -1,7 +1,7 @@
 # Installation Guide
 Для установки на Android:
 1. скопировать эту ссылку ```https://raw.githubusercontent.com/zokz9/config-v2ray/refs/heads/main/config.txt```
-3. скачать приложение из PlayMarket https://play.google.com/store/apps/details?id=app.hiddify.com
+3. скачать из папки app, .apk и установить
 4. и добавить профиль, вставить из буфера обмена
 
 
@@ -9,9 +9,9 @@
 1. скопировать эту ссылку ```https://raw.githubusercontent.com/zokz9/config-v2ray/refs/heads/main/config.txt```
 3. скачайте и установите приложение:
 
-Windows: 
-Из Microsoft Store 
-https://apps.microsoft.com/detail/9pdfnl3qv2s5?hl=ru-RU&gl=RU
+Windows:
+
+скачать из папки app, .exe и установить
 
 Arch Linux:
 ```bash
