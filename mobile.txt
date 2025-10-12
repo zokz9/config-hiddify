@@ -1,2 +1,2 @@
-vless://id6856346113@185.40.4.142:443?security=reality&encryption=none&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=a79e1dd256#MOBILE-1
-vless://497abcd4-c541-4cb1-b00f-377c84feccca@31.57.29.19:443?type=tcp&encryption=none&security=reality&pbk=VP0N_QQLL3bfSvv5k9reBe_z4HoXv7WasAXsC9-AHDk&fp=chrome&sni=vk.com&sid=58f3&spx=%2F&flow=xtls-rprx-vision#MOBILE-2
+//vless://id6856346113@185.40.4.142:443?security=reality&encryption=none&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=a79e1dd256#MOBILE-1
+vless://497abcd4-c541-4cb1-b00f-377c84feccca@31.57.29.19:443?type=tcp&encryption=none&security=reality&pbk=VP0N_QQLL3bfSvv5k9reBe_z4HoXv7WasAXsC9-AHDk&fp=chrome&sni=vk.com&sid=58f3&spx=%2F&flow=xtls-rprx-vision#MOBILE-1
