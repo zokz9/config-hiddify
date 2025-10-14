@@ -1,2 +1,2 @@
-vless://497abcd4-c541-4cb1-b00f-377c84feccca@31.57.29.19:443?type=tcp&encryption=none&security=reality&pbk=VP0N_QQLL3bfSvv5k9reBe_z4HoXv7WasAXsC9-AHDk&fp=chrome&sni=vk.com&sid=58f3&spx=%2F&flow=xtls-rprx-vision#MOBILE-1%20(Обход-1)
+vless://497abcd4-c541-4cb1-b00f-377c84feccca@31.57.29.19:58693?type=tcp&encryption=none&security=reality&pbk=VP0N_QQLL3bfSvv5k9reBe_z4HoXv7WasAXsC9-AHDk&fp=chrome&sni=vk.com&sid=58f3&spx=%2F&flow=xtls-rprx-vision#MOBILE-1%20(Обход-1)
 vless://c46c4277-84e9-43a2-b2d6-38a4c080cc71@31.57.29.19:444?type=tcp&encryption=none&security=reality&pbk=snV6g8z3RCmMzC3QupOcTa9Y0qGY40LYybwax7jDYxw&fp=chrome&sni=yandex.ru&sid=3a3aa7529446f5&spx=%2F&flow=xtls-rprx-vision#MOBILE-1%20(Обход-2)
