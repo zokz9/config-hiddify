@@ -1,5 +1,5 @@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?type=grpc&security=none#VPN-1%20(🇲🇫)
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?mode=gun&security=none&encryption=none&authority=%2F%3FJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#VPN-2%20(🇳🇱)
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.241:8880?mode=gun&security=none&encryption=none&authority=%2F%3FJoin---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#VPN-2%20(🇲🇫)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?encryption=none&security=none&type=grpc#VPN-3%20(🇳🇱)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#VPN-4%20(🇲🇫)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?mode=gun&security=none&encryption=none&type=grpc#VPN-5%20(🇳🇱)
