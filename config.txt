@@ -1,4 +1,7 @@
-vless://2c509e08-bb9c-4e95-94ab-db5b80923185@31.57.29.19:443?security=reality&encryption=none&pbk=aobf5PZ-MCjFAmjfdCxddAVBlhL1rO2MIaYz2Phh8B0&headerType=none&fp=random&spx=%2F&type=tcp&sni=sun6-20.userapi.com&sid=4f37#%F0%9F%87%B1%F0%9F%87%BB%20Latvia
-vless://c8451b58-6337-4294-ba28-1a33731331a1@31.6.1.187:25607?security=reality&encryption=none&pbk=j5CgrKQgkDV5bC5Y4pB0lGNupDYxklIDgge4HL1X3zE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=84#%F0%9F%87%B7%F0%9F%87%B4%20Romania
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#%F0%9F%87%AE%F0%9F%87%B9%20Italy
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#%F0%9F%94%B4%20Youtube
+trojan://HRfcCWeItT@31.57.29.19:32320?security=reality&pbk=JnHhFUhHYq-PmKapg-sk8sJXA9q6rAHzUyAPP7tu8gE&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=7aab82d5#Own%20VPN%201
+
+vless://684a3b1e-9f8e-49f2-b1f4-420aba2551d6@31.57.29.19:8443?security=reality&encryption=none&pbk=aobf5PZ-MCjFAmjfdCxddAVBlhL1rO2MIaYz2Phh8B0&headerType=none&fp=random&spx=%2F&type=tcp&sni=vless.hubp.de&sid=4f37#Own%20VPN%202
+
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#Alien%20VPN%201
+
+trojan://vR0Iq2NLubDy0pKetWDezA@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#Alien%20VPN%202
