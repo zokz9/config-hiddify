@@ -4,4 +4,4 @@ vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=realit
 
 trojan://ljnIeClHdIqPhMMUHTuGrw@66.23.207.68:443?path=%2F&security=none&host=telegram.org&type=ws#🇺🇲-1%20VPN
 
-trojan://vR0Iq2NLubDy0pKetWDezA@109.169.37.8:443?path=%2F&security=none&host=telegram.org&type=ws#🇬🇧%20VPN
+trojan://fCbeKU33-HISaw6J_lGETQ@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇬🇧%20VPN
