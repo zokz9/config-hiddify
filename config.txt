@@ -1,4 +1,4 @@
-trojan://HRfcCWeItT@31.57.29.19:32320?security=reality&pbk=JnHhFUhHYq-PmKapg-sk8sJXA9q6rAHzUyAPP7tu8gE&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=7aab82d5#🇱🇻%20VPN
+vless://5da29082-48ec-4376-9564-9d377c4abc64@31.57.29.19:443?type=xhttp&encryption=none&path=%2F&host=ural-reks.ru&mode=auto&security=reality&pbk=Z8caVzBzapGqp7ZhoWGfgfxOkiZUNu88JLXj8O8fcH4&fp=random&sni=ural-reks.ru&sid=9c&spx=%2F#🇱🇻%20VPN
 
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇺🇲%20VPN
 
