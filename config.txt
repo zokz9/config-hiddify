@@ -1,7 +1,5 @@
 trojan://HRfcCWeItT@31.57.29.19:32320?security=reality&pbk=JnHhFUhHYq-PmKapg-sk8sJXA9q6rAHzUyAPP7tu8gE&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=7aab82d5#🇱🇻%20VPN
 
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#🇺🇲-2%20VPN
+trojan://UGFfKk9c5ulHoWK0Au7nYQ@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸%20VPN
 
-trojan://ljnIeClHdIqPhMMUHTuGrw@66.23.207.68:443?path=%2F&security=none&host=telegram.org&type=ws#🇺🇲-1%20VPN
-
-trojan://fCbeKU33-HISaw6J_lGETQ@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇬🇧%20VPN
+trojan://2cH4sk6TxwuDqqLwRb83jA@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇬🇧%20VPN
