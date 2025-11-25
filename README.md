@@ -1,4 +1,4 @@
-# Installation Guide
+# Гайд на Установку
 1. скопировать эту ссылку
 ```
 https://raw.githubusercontent.com/zokz9/config-vpn/refs/heads/main/config.txt#ZoKzVPN
