@@ -1,7 +1,7 @@
 # Installation Guide
 1. скопировать эту ссылку
 ```
-https://raw.githubusercontent.com/zokz9/config-vpn/refs/heads/main/config.txt
+https://raw.githubusercontent.com/zokz9/config-vpn/refs/heads/main/config.txt#ZoKzVPN
 ```
 3. Установить приложение для своего устройства
 ```
