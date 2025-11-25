@@ -1,5 +1,7 @@
 trojan://HRfcCWeItT@31.57.29.19:32320?security=reality&pbk=JnHhFUhHYq-PmKapg-sk8sJXA9q6rAHzUyAPP7tu8gE&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=7aab82d5#🇱🇻%20VPN
 
-trojan://UGFfKk9c5ulHoWK0Au7nYQ@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇺🇸%20VPN
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#%F0%9F%87%BA%F0%9F%87%B8%20VPN
+
+vless://3ced94cb-7df6-44e5-b0c9-2cb2d7ec1688@176.124.206.205:443?security=reality&encryption=none&pbk=_A94OkOy0oIRFQCQbEWkF1BJXHu1mwgOroq9ZvgbTHQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=797266d9ff91c8c7#%F0%9F%87%AB%F0%9F%87%AE%20VPN
 
 trojan://2cH4sk6TxwuDqqLwRb83jA@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇬🇧%20VPN
