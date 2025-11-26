@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/zokz9/config-vpn/refs/heads/main/config.txt#Zo
 
 Поделится(V2raytun-на-телефон): 
 
-![QR-код](qr-code.png)
+![QR-код](qrcode.png)
