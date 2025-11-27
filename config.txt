@@ -4,4 +4,4 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?path=%2F%3FTELE
 
 vless://3ced94cb-7df6-44e5-b0c9-2cb2d7ec1688@176.124.206.205:443?security=reality&encryption=none&pbk=_A94OkOy0oIRFQCQbEWkF1BJXHu1mwgOroq9ZvgbTHQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=797266d9ff91c8c7#🇫🇮%20VPN
 
-trojan://2cH4sk6TxwuDqqLwRb83jA@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇬🇧%20VPN
+trojan://uk7IWg1vmue8fZoDUbKtvg@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇬🇧%20VPN
