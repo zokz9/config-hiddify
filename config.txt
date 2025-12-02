@@ -1,7 +1,5 @@
 vless://5da29082-48ec-4376-9564-9d377c4abc64@31.57.29.19:443?type=xhttp&encryption=none&path=%2F&host=ural-reks.ru&mode=auto&security=reality&pbk=Z8caVzBzapGqp7ZhoWGfgfxOkiZUNu88JLXj8O8fcH4&fp=random&sni=ural-reks.ru&sid=9c&spx=%2F#🇱🇻%20VPN
 
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#🇺🇲%20VPN
-
 vless://3ced94cb-7df6-44e5-b0c9-2cb2d7ec1688@176.124.206.205:443?security=reality&encryption=none&pbk=_A94OkOy0oIRFQCQbEWkF1BJXHu1mwgOroq9ZvgbTHQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=797266d9ff91c8c7#🇫🇮%20VPN
 
-trojan://uk7IWg1vmue8fZoDUbKtvg@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇬🇧%20VPN
+trojan://zacO3u1y3wqZPRqf4CSesA@109.169.37.8:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#🇬🇧%20VPN
